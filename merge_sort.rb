@@ -14,7 +14,6 @@ def merge_sort(array, sorted = [])
         end
     end
 
-
     sorted + left + right
 end
 
